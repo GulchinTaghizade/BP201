@@ -1,0 +1,14 @@
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Gulchin\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
