@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Gulchin\\.nuget\\packages\\": {},
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gulchin\\Desktop\\04.11.2022\\04.11.2022\\04.11.2022.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\04.11.2022\\04.11.2022\\04.11.2022.csproj",
       "projectName": "04.11.2022",
-      "projectPath": "C:\\Users\\Gulchin\\Desktop\\04.11.2022\\04.11.2022\\04.11.2022.csproj",
-      "packagesPath": "C:\\Users\\Gulchin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gulchin\\Desktop\\04.11.2022\\04.11.2022\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\04.11.2022\\04.11.2022\\04.11.2022.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\04.11.2022\\04.11.2022\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gulchin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

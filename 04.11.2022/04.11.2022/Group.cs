@@ -5,19 +5,20 @@ using System.Text;
 
 namespace _04._11._2022
 {
-    class Group
+     class Group
     {
         public string No { get; set; }
         //public Categories Category;
         public bool IsOnline { get; set; }
         public string Category { get; set; }
         public int Limit { get; set; }
-        public static int Programming = 200;
-        public static int Design = 200;
-        public static int SystemAdministration = 200;
+        //public static int Programming = 200;
+        //public static int Design = 200;
+        //public static int SystemAdministration = 200;
+         
 
 
-        public List<Student> students=new List<Student>();
+        public static List<Student> students=new List<Student>();
        
 
         //public Group(Categories category, bool isOnline )
@@ -70,12 +71,12 @@ namespace _04._11._2022
                 {
                     IsOnline = true;
                     Limit = 15;
-                    //Console.WriteLine("Group Limit: 15");
+                  
                 }
                 else
                 {
                     Limit = 10;
-                    //Console.WriteLine("Group Limit: 10");
+                 
                 }
 
         }
