@@ -1,0 +1,18 @@
+table thead th{
+    border: 2px solid black;
+}
+
+table tbody tr td{
+    border: 1px solid black; 
+    
+}
+
+
+img{
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
