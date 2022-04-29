@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+li{
+    display: inline;
+    color: rgb(72, 72, 155);
+    margin-right: 10px;
+}  
+
+ul{
+    background-color: white;
+    padding: 15px;
+    margin: 0;
+    margin-left: 400px;
+}
+
+
+.nameofbank{
+    font-weight: 1000;
+    font-size: 30px;
+    margin-right: 150px;
+}
+
+img{
+
+    height: 800px;
+    width: 100%;
+}
+
+.bluediv{
+    position: absolute;
+    background-color: rgb(25, 25, 136);
+    height: 820px;
+    width: 800px;
+    opacity: 0.5;
+}
+
+.text{
+position: absolute;
+color: rgb(255, 255, 255);
+font-size: 32px;
+margin-left: 470px;
+margin-top: 400px;
+width: 231px;
+}
+
+.text1{
+    font-size: 20px; 
+    word-wrap: break-word;
+}
