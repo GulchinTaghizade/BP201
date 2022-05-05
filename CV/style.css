@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.resume{
+    padding-left: 25px;
+    width: 600px;
+}
+h1{
+    font-weight: normal;
+}
+
+hr{
+    border: 2px solid black;
+    width: 600px;
+}
+p{
+    font-size: 14px;
+}
+section{
+    padding-top: 15px ;
+}
+
+li{
+    font-size: 12px;
+}
+.whole{
+    display: flex;
+    margin-left: 150px;
+
+}
+
+.rightside{
+    padding-left: 130px;
+    width: 200px;
+}
+
+
+.obshie{
+    display: flex;
+}
+
+
+.from2010to2013 h5{
+   width: 150px;
+}
