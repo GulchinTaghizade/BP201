@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#shop-together{
+    height: 800px;
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/tixlyvnpr7/nynne-schroder-unsplash-A0xnbgZ4WxTJlN3R.jpg);
+}
+
+.firstsection{
+    position: absolute;
+    left: 300px;
+    top: 280px; 
+
+}
+span{
+    font-family: 'Prata', serif;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Prata', sans-serif;
+    text-align: justify;
+    margin-top: 50px;
+    line-height: 25px;
+}
+.firstsection p{
+    width: 460px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-color: black;
+    width: 180px;
+    padding: 15px;
+    margin-top: 50px;
+}
+
+button:hover{
+    background-color: ;
+}
+
+.summary p{
+    width: 550px;
+    text-align: center;
+}
+
+.summary{
+    margin-left: 700px;
+    margin-top: 60px;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 35px;
+    
+}
+.btnexplore{
+    position: relative;
+    bottom: 75px;
+    left: 85px;
+} 
+
+.col-4{
+    width: 392px;
+}
+
+#our-story{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.our-story-span{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.our-story-summary p{
+    width: 480px;
+    text-align: justify;
+    
+}
+
+.our-story-summary span{
+    display: block;
+    width: 500px; 
+}
+
+#discover-more span{
+    text-align: justify;
+}
+
+
+
+
+
