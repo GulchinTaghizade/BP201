@@ -1,0 +1,97 @@
+@import "/assets/scss/abstract/variables";
+@import "/assets/scss/abstract/mixins";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.summary{
+   
+    .yellow-line{
+        width: 130px;
+        background-color:#fdbc2e;
+        height: 2px;
+        margin: 50px auto;
+    }
+
+    p{
+        color: $text-color;
+        font-size: $font-size;
+        text-align: center;
+        line-height:1;
+    }
+
+}
+
+.cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 80px;
+    gap: 15px;
+    img{
+        width: 150px;
+        height: 150px;
+    }
+    .fourth-row{
+      width: 100%;
+      display: flex;
+      margin-left: 78px;
+      gap: 15px;
+    }
+
+
+    .hover-layer{
+        position: absolute;
+        margin-top: -150px;
+        height: 150px;
+        width: 150px;
+        color: white;
+        padding: 15px;
+        visibility: hidden;
+        
+        h3{
+            font-weight: 700;
+            font-size: $font-size/2.5;
+            
+        }
+
+        p{
+            font-size: $font-size/4;
+        }
+       
+
+    }
+    .sistem-ve-shebeke{
+        background-color: rgba(37, 175, 95, 0.7);
+    }
+
+    .dizayn{
+        background-color:rgba(245, 197, 32, 0.7);
+    }
+    .programlashdirma{
+        background-color: rgba(56, 134, 190, 0.7);
+    }
+
+    .digital-marketing{
+        background-color: rgba(120, 44, 130, 0.7);
+    }
+   
+}
+.card-item{
+    transition: 1s; 
+    &:hover{
+    transform: rotateY(180deg); 
+    .hover-layer{
+        visibility: visible;
+        transform: rotateY(-180deg); 
+
+    }
+    }
+}
+
+
+
+
